@@ -22,7 +22,7 @@ indicatif = { version = "0.17.6", features = ["tokio"] }
 log = "0.4.20"
 modio = "0.9.1"
 postcard = { version = "1.0.8", features = ["use-std"] }
-serde = { version = "1.0.193", features = ["derive"] }
+serde = { version = "1.0.195", features = ["derive"] }
 tokio = { version = "1.35.1", features = ["full"] }
 zip = "0.6.6"
 
