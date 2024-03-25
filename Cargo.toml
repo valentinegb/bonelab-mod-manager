@@ -20,7 +20,7 @@ env_logger = "0.11.3"
 futures-util = { version = "0.3.30", features = ["tokio-io"] }
 indicatif = { version = "0.17.8", features = ["tokio"] }
 log = "0.4.21"
-modio = "0.9.1"
+modio = "0.10.0"
 postcard = { version = "1.0.8", features = ["use-std"] }
 serde = { version = "1.0.197", features = ["derive"] }
 tokio = { version = "1.36.0", features = ["full"] }
